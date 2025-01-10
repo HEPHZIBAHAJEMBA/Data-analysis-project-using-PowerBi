@@ -2,6 +2,8 @@
 
 ### Project overview
 #### This dataset shows the analysis of a hotel revenue data.
+![first dashboard](https://github.com/user-attachments/assets/defa3d4d-afee-47a5-9244-efdf5ea087e4)
+
 
 ### Data source
 #### https://absentdata.com/data-analysis/... contains revenue data from the hotel
