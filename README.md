@@ -1,4 +1,4 @@
-# Hotel revenue data analysis project
+# Hotel Revenue Data Analysis Project
 
 ### Project overview
 #### This dataset shows the analysis of a hotel revenue data.
